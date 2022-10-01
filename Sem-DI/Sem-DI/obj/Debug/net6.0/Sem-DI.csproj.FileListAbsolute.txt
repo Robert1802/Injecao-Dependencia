@@ -1,0 +1,15 @@
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\bin\Debug\net6.0\Sem-DI.exe
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\bin\Debug\net6.0\Sem-DI.deps.json
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\bin\Debug\net6.0\Sem-DI.runtimeconfig.json
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\bin\Debug\net6.0\Sem-DI.dll
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\bin\Debug\net6.0\ref\Sem-DI.dll
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\bin\Debug\net6.0\Sem-DI.pdb
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\Sem-DI.csproj.AssemblyReference.cache
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\Sem-DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\Sem-DI.AssemblyInfoInputs.cache
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\Sem-DI.AssemblyInfo.cs
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\Sem-DI.csproj.CoreCompileInputs.cache
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\Sem-DI.dll
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\ref\Sem-DI.dll
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\Sem-DI.pdb
+D:\Learn\VisualStudio\DependencyInjection\Sem-DI\Sem-DI\obj\Debug\net6.0\Sem-DI.genruntimeconfig.cache

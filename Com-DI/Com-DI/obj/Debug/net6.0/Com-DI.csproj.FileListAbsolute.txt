@@ -1,0 +1,14 @@
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\bin\Debug\net6.0\Com-DI.exe
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\bin\Debug\net6.0\Com-DI.deps.json
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\bin\Debug\net6.0\Com-DI.runtimeconfig.json
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\bin\Debug\net6.0\Com-DI.dll
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\bin\Debug\net6.0\ref\Com-DI.dll
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\bin\Debug\net6.0\Com-DI.pdb
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\obj\Debug\net6.0\Com-DI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\obj\Debug\net6.0\Com-DI.AssemblyInfoInputs.cache
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\obj\Debug\net6.0\Com-DI.AssemblyInfo.cs
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\obj\Debug\net6.0\Com-DI.csproj.CoreCompileInputs.cache
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\obj\Debug\net6.0\Com-DI.dll
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\obj\Debug\net6.0\ref\Com-DI.dll
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\obj\Debug\net6.0\Com-DI.pdb
+D:\Learn\VisualStudio\DependencyInjection\Com-DI\Com-DI\obj\Debug\net6.0\Com-DI.genruntimeconfig.cache
